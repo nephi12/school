@@ -1,0 +1,7 @@
+1. Explain why average velocity in one dimension can be positive or negative.
+You are either advancing in the "forward" direction, or you are retreating in
+the opposite direction.
+
+2. Can speed ever be negative? Explain.
+No. Speed is direction / time. Since we currently do not know how to move a
+negative amount in time or distance, we can't have a negative speed.
