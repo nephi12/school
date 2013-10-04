@@ -1,0 +1,30 @@
+.------------------------------------------------------------------------------------.
+|       #7        |       #13      |       #23      |       #25      |       #27     |
+|     quartz      |     calcite    |      mica      |    hematite    |     sulfur    |
+|------------------------------------------------------------------------------------|
+|Color:           |Color:          |Color:          |Color:          |Color:         |
+|white            |white\rose      |translucent     |red             |yellow         |
+|                 |                |                |                |               |
+|Streak:          |Streak:         |Streak:         |Streak:         |Streak:        |
+|white            |white           |yellow          |red             |yellow         |
+|                 |                |                |                |               |
+|Break:           |Break:          |Break:          |Break:          |Break:         |
+|fracture         |cleavage        |cleavage        |fracture        |fracture       |
+|                 |                |                |                |               |
+|Hardness:        |Hardness:       |Hardness:       |Hardness:       |Hardness:      |
+|7                |3               |2.7             |4               |2              |
+|                 |                |                |                |               |
+|Mag:             |Mag:            |Mag:            |Mag:            |Mag:           |
+|no               |no              |no              |no              |no             |
+|                 |                |                |                |               |
+|Fizz:            |Fizz:           |Fizz:           |Fizz:           |Fizz:          |
+|                 |                |                |                |               |
+|                 |                |                |                |               |
+|Luster:          |Luster:         |Luster:         |Luster:         |Luster:        |
+|non-metallic     |non-metallic    |metallic        |metallic        |non-metallic   |
+`------------------------------------------------------------------------------------'
+
+
+1. (quartz, calcite), (mica, sulfur).
+2. No.
+3. In case you get a wrong clue.
