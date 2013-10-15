@@ -3,3 +3,5 @@ Paragraph_2 - First reason you selected the individual.
 Paragraph_3 - Second reason you selected the individual.
 Paragraph_4 - Third reason you selected the individual.
 Paragraph_5 - Conclusion that summarizes the main ideas and restates the thesis.
+
+"it is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."

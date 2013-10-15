@@ -1,0 +1,69 @@
+global
+
+sub
+
+y
+
+p
+
+cc
+dd
+yy
+
+gg
+G
+numgg
+numG
+
+gq
+
+:sub
+
+normal
+insert
+visual
+replace
+command line
+ex
+select
+insert normal
+
+text objects
+
+:g/re/p :)
+
+:h
+
+Go
+
+map
+
+*cwWORD^[n.
+
+"A Brief History
+
+Historically, vi (the "VIsual editor") is a front end to a family of other
+editors including 'ex' and 'ed'. These are roughly analogous to DOS' edlin.
+
+vi's sources were originally licensed in such a proprietary way that the only
+way to have vi on Linux-based systems was to use a clone. The most revered is
+VIm (Vi IMproved), which amongst other plus points has a "minimal"
+implementation for use as /bin/vi, and extended features [and a "compatibility"
+mode] when built for use as /usr/bin/vim and/or /usr/bin/gvim (the GUI
+version).
+
+Even VIm's "minimal" implementation is a bit bloaty for embedded class systems,
+however, and the alternative you'll find in use will either be a workalike
+(BWIM editor with vi key bindings), or the vi applet belonging to the 'busybox'
+utility. As one might suspect, busybox-vi does not implement everything listed
+here; in other cases, the behaviour differs in some slight way.
+
+Basic Philosophy
+
+Designed for use over a slow network link, vi is one of the most powerful text
+editors you will ever use. Because you'll probably very rarely use meta-keys
+other than shift, you should never need to move your hands far from the 'home'
+position - making vi incredibly efficient in the hands of a touch
+typist."(Wills' Projects: Vi, VIm, and Friends)
+
+mm `m 'm
