@@ -1,0 +1,64 @@
+       Vim: A Text Editor 
+        By: Ben Miller
+
+Vim is a Text Editor. It is not made to make text look
+pretty, it is a generic text based editor. It won't embed
+images or act like Microsoft word. If that is a problem then
+it is not for you. However, if you want more power than you
+know what to do with, Vim is for you. Vim is dependable. It
+will not mangle your text for other purposes.  It can
+cleanly edit pictures, executables, and many other binary
+type files. It will not add invisible formatting like
+Microsoft word does, nor will it add any text you don't tell
+it to. It will however add any text you tell it to, take for
+example the character: ¿ or «.  Entering these characters is
+simply a matter of pressing ?I or << respectively.  No more
+searching character maps for the character and then copying
+and pasting. Vim will also allow piping through any external
+program, which means it can be used as a hex editor. This
+allows changing individual pixels in a picture such as a
+bitmap.
+
+Vim will do what you tell it to and nothing else. Vim has no
+GUI, instead it has a TUI (or a textual user interface).
+This means that its features can be accessed straight from
+the home row. No need to touch the arrow-keys, the mouse or
+the function keys. This is possible because of Vim's modes.
+When you start Vim it defaults to normal mode, a mode in
+which every key you press is an individual command.
+
+This can be strange to the beginner, because from normal
+mode you have to press i or a similar command to enter
+insert mode where you can begin inserting text with the
+conventional methods. However, normal mode has a plethora of
+commands that increase productivity, and if a command isn't
+there that you would like, you can map it yourself with yet
+another mode called command line mode, which allows you to
+run really powerful commands such as :g/^$/d which deletes
+all blank lines. 
+
+While Vim may be strange to a beginner, it is designed to be
+almost like English.  You type a key --d for example-- and
+then a motion or object --i" for example-- and Vim applies
+the action to the object, like in English. We would say
+"delete two words", and we would tell Vim "d2w", d for
+delete, 2 for two, and w for word. We could also do "dip"
+for "delete in paragraph", or even "ct," for "change till
+comma". These set of actions and objects make Vim very
+customizable, and these commands are only "the tip of the
+iceberg."
+
+Lastly, Vim has modes. You have already seen a few of them.
+Insert mode, normal mode, and command line mode. These are
+just a few, although they are the most common. Some more
+are: replace, visual select, visual line, and visual block.
+These work as the names suggest, though visual does need
+explaining. This means that you enter visual mode and then
+when you move your cursor, you select text between where you
+started and where you go to, and you can then preform
+actions with the visual area as your object.
+
+In conclusion, Vim is a powerful text editor. It has many
+modes, actions and objects, and many movements. It is
+however a text editor. This means that it cannot have
+different fonts, colors, or make text pretty.

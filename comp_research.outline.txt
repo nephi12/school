@@ -1,0 +1,46 @@
+vim
+====
+
+   O vim is a text editor, not a word processor. it excels at editing text.
+      -it won't break executables.
+      -it won't add invisible formating to your file.
+      -it will insert any character in any document with .
+      -it will pipe through any external program, and it can therefore be used as a hex editor.
+
+   O vim is text oriented, it has a TUI not a GUI.
+      -it won't take forever to load up.
+      -it won't waste your time with menus that you have to search through.
+      -it will allow you to keep your hands at the home row.
+      -it will do what you tell it to, with no suprises.
+
+   O vim is a language.
+      -it has verbs and objects in the form of actions and text objects of movements.
+	 + 6r-
+	 + cgg
+	 + ci"
+	 + ciw
+	 + d7w
+	 + dG
+	 + di)
+	 + dit
+	 + v/re<CR>
+	 + vab
+      -it has simple commands that can be combined to form more complex actions.
+      -it doesn't have menus with limited options that are too slow to be usefull to the average editor
+      -it doesn't have a bunch of toolbars that take up space and time.
+
+   O vim has a language.
+      -user defined functions
+      -key mappings
+      -pplugins
+
+   O vim has modes.
+      -insert
+      -normal
+      -command line
+      -replace
+      -visual
+      -select
+      -visual line
+      -visual block
+      -operator pending
